@@ -3,3 +3,4 @@
 
 * 01.12. - [zadání](https://www.facebook.com/events/584080195131169/permalink/584437195095469/) + [řešení](./01.js)
 * 03.12. - [zadání](https://www.facebook.com/events/584080195131169/permalink/585484461657409/) + [řešení](./02.js)
+* 05.12. - [zadání](https://www.facebook.com/events/584080195131169/permalink/586258914913297/) + [řešení](./03.fsx)
